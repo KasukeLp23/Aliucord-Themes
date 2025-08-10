@@ -1,1 +1,35 @@
-
+{
+    "manifest": {
+        "author": "fuzeexd#0000",
+        "version": "1.0.0",
+        "name": "Dyno Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/TheFuZeeXD\/Aliucord-Themes\/refs\/heads\/main\/Dyno%20Theme\/dyno.json"
+    },
+    "background": {
+        "blur_radius": 10,
+        "url": "https:\/\/raw.githubusercontent.com\/TheFuZeeXD\/Aliucord-Themes\/refs\/heads\/main\/Dyno%20Theme\/background.jpg"
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "ginto_medium": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "ginto_regular": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_bold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_medium": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_semibold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "statusbar": 0,
+        "mention_highlight": 1227540476,
+        "active_channel": 2004783249,
+        "accent": -11288065
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -13997085,
+        "white_500": -1644826,
+        "primary_dark_360": -4532507
+    },
+    "drawable_tints": {},
+    "raws": {}
+    } 
