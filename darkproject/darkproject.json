@@ -1,1 +1,36 @@
 
+{
+    "manifest": {
+        "author": "fuzeexd#0000",
+        "version": "1.0.0",
+        "name": "DarkProject Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/TheFuZeeXD\/Aliucord-Themes\/refs\/heads\/main\/darkproject\/darkproject.json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/TheFuZeeXD\/Aliucord-Themes\/refs\/heads\/main\/darkproject\/background.jpg",
+        "blur_radius": 10
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "ginto_medium": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "ginto_regular": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_bold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_medium": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_semibold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "statusbar": 0,
+        "mention_highlight": 1241265706,
+        "active_channel": 2004783249,
+        "accent": -41645
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -2224896,
+        "white_500": -1644826,
+        "primary_dark_360": -4532507
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
