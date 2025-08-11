@@ -1,9 +1,10 @@
 {
     "manifest": {
-        "author": "fuzeexd#0000",
+        "author": "fuzeexd",
         "version": "1.0.0",
         "name": "Dyno Theme",
-        "updater": "https:\/\/raw.githubusercontent.com\/TheFuZeeXD\/Aliucord-Themes\/refs\/heads\/main\/Dyno%20Theme\/dyno.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/TheFuZeeXD\/Aliucord-Themes\/refs\/heads\/main\/Dyno%20Theme\/dyno.json",
+        "license": "MIT License"
     },
     "background": {
         "blur_radius": 10,
@@ -32,4 +33,4 @@
     },
     "drawable_tints": {},
     "raws": {}
-    } 
+}
