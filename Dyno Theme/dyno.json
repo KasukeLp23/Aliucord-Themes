@@ -8,15 +8,15 @@
     },
     "background": {
         "blur_radius": 10,
-        "url": "https:\/\/raw.githubusercontent.com\/TheFuZeeXD\/Aliucord-Themes\/refs\/heads\/main\/Dyno%20Theme\/wall.png"
+        "url": "https:\/\/raw.githubusercontent.com\/KasukeLp23\/Aliucord-Themes\/refs\/heads\/main\/Dyno%20Theme\/wall.png"
     },
     "fonts": {
-        "ginto_bold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
-        "ginto_medium": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
-        "ginto_regular": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
-        "whitney_bold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
-        "whitney_medium": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
-        "whitney_semibold": "https:\/\/github.com\/TheFuZeeXD\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf"
+        "ginto_bold": "https:\/\/github.com\/KasukeLp23\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "ginto_medium": "https:\/\/github.com\/KasukeLp23\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "ginto_regular": "https:\/\/github.com\/KasukeLp23\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_bold": "https:\/\/github.com\/KasukeLp23\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_medium": "https:\/\/github.com\/KasukeLp23\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf",
+        "whitney_semibold": "https:\/\/github.com\/KasukeLp23\/Aliucord-Themes\/raw\/main\/darkproject\/MozillaHeadline-VariableFont_wdth%2Cwght.ttf"
     },
     "simple_colors": {
         "background": 0,
